@@ -31,6 +31,7 @@ Overclocked is an ecommerce site for computer related products developed using t
 
 
 ### Installation 
+---
 Make sure you have Node.js installed-
 ```sh
 https://nodejs.org/en
